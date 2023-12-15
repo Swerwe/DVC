@@ -25,7 +25,6 @@ stages:
 metrics:
 - metrics.json
 plots:
-- eval/plots/images/loss.png
 - dvclive/plots/custom/iris.json:
     x: epoch
     y: loss
